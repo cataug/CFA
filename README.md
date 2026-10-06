@@ -1,4 +1,4 @@
-# CFA — Causal Counterfactual Augmentation for Scientific QA
+# Causal Counterfactual Augmentation for Scientific QA
 
 <p align="center">
   <b>From scientific text to structured causal models and validated counterfactual reasoning.</b>
